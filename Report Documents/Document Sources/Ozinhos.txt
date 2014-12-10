@@ -1,0 +1,36 @@
+resolve_casas_adjacentes:
+	O(casas na soma vertical + casas na soma horizontal)
+
+cruza_somas:
+	O(1)
+
+completar_soma:
+	O(casas na soma)
+
+combinacoes_pares_reais:
+	O(casas na soma)
+
+eliminar_maximos_minimos:
+	O(casas na soma)
+
+n_possibilidades_n_casas:
+	O(casas na soma)
+
+resolver_como_soma_menor:
+	O(casas na soma)
+
+possibilidades_exclusivas:
+	O(casas na soma)
+
+valores_max_min:
+	O(casas na soma)
+
+chama_algoritmos:
+	O(casas na soma)
+
+procura_soma_triangulares:
+	O(casas no puzzle)
+
+
+
+

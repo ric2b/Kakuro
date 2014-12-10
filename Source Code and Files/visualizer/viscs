@@ -1,0 +1,4 @@
+#
+
+/usr/bin/python3 /usr/local/bin/viscs.pyc $1
+

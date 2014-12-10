@@ -1,0 +1,25 @@
+enunc:		5.4KB			19KB
+001:		11.2KB			27KB
+004:		6.3KB			28KB
+008:		1.2KB			3.6KB
+021:		1.1KB			4.1KB
+
+nosso2		1MB			2.6MB
+nosso4		54.3KB			86KB
+nosso_evil	3.7GB !!!!!		430MB
+
+boss2		10KB			36KB
+kakuro_hard	17KB			72KB
+kakuro_evil	4.3MB			22MB
+puzzle3		63.5KB			62KB
+puzzle4		69.9KB			91KB
+puzzle7		770.8KB			1.3MB
+
+Kakuro_007	100KB			100KB
+Kakuro_039	38.2MB			4MB
+Kakuro_056	510.5MB			28MB  
+Kakuro_077	351.8MB			53MB
+Kakuro_080	1.3GB !!!!!		78MB  
+Kakuro_098	1.1MB			2MB
+Kakuro_175	47.2KB			42KB
+	

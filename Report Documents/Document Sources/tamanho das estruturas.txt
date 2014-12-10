@@ -1,0 +1,24 @@
+triangular:
+	4 inteiros = 4 * 32bits
+	+	
+	1 char = 8bits
+total = 136
+
+branca:
+	vector de 9 inteiros = 9 * 32bits
+	+
+	2 inteiros = 2*32
+	+
+	2 ponteiros = 2*32
+total = 416bits
+
+celula_matriz:
+	3 ponteiros = 3*32
+total = 96bits
+
+fila_casas:
+	2 inteiros = 2*32
+	+
+	1 ponteiro = 32
+total = 96bits
+	
